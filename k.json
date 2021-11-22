@@ -1,5 +1,5 @@
 {
-		"bsc": {
-        "active":true
+   "bsc": {
+        "active":false
     }
-	}
+}
